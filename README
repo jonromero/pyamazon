@@ -1,0 +1,5 @@
+Searching for items in Amazon using Python.
+
+We've released a working of Amazon's API in Python
+here. You can even find similar items (Operation: SimilarityLookup). Just provide your access key and your secret key (you can get them https://aws-portal.amazon.com/gp/aws/developer) and you are ready to go!
+
